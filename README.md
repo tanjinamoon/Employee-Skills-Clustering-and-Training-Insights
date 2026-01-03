@@ -53,9 +53,3 @@ Datasets were joined using appropriate keys to ensure correct granularity and ac
 - Jupyter Notebook
 
 ---
-
-## Repository Structure
-- `final_case_2.ipynb` – Main analysis notebook
-- Employee, training, assessment, and survey datasets (CSV files)
-
----
